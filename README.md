@@ -25,7 +25,7 @@ This application is a web-based tool built with Streamlit to translate text in v
 ## Steps
 1. Clone the repository
 ```
-git clone https__://github.com/yourusername/file-translator.git
+git clone https://github.com/Bollampallikishore/File_Translate_Streamlit.git
 
 ```
 2. Install the required packages
